@@ -1,8 +1,0 @@
-export default function Home() {
-  return (
-    <main style={{ padding: 24 }}>
-      <h1>Webers Ölmühle – Bestell-App</h1>
-      <p>Die App wird gerade eingerichtet.</p>
-    </main>
-  );
-}
